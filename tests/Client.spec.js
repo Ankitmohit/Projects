@@ -1,6 +1,6 @@
 const {test,expect}=require('@playwright/test');
 
-test('Client App Login', async({page})=>
+test('Clientt App Login', async({page})=>
 {
     const Email = "ankitmishra@example.com";
     const productName = 'ZARA COAT 3'
